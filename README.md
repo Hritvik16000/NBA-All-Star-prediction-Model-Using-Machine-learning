@@ -1,1 +1,1 @@
-# St20249004_Dissertation-MSc-data-science-
+# NBA prediction model for All-Stars game using Machine learning and Data Science.
